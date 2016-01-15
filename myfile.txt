@@ -1,3 +1,4 @@
 This is the first line of my file.
 This is the second line of my file.
 This is the third line.
+One more line
